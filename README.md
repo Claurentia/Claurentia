@@ -4,7 +4,7 @@ Software engineer, MS graduate, perpetual builder.
 
 I hold an MS in Computer Science from Seattle University and have spent the last few years learning that the best code is the kind users never have to think about. I care about systems that hold up under real conditions and interfaces that actually make sense to the people using them.
 
-Currently a full-time software developer at [MyStage Music](https://github.com/carmellaurentia), a music tech startup, building across Flutter, Firebase, and FlutterFlow. It's been a good place to learn what it means to own something end to end.
+Currently a full-time software developer at [MyStage Music](https://www.mysta.ge/), a music tech startup, building across Flutter, Firebase, and FlutterFlow. It's been a good place to learn what it means to own something end to end.
 
 ---
 
@@ -35,5 +35,5 @@ Currently a full-time software developer at [MyStage Music](https://github.com/c
 Currently employed and actively exploring what's next. I'm looking for full-stack or mobile roles where I can stay close to the product and the people using it. If you're building something real and need someone who can move across the stack, I'd like to hear about it.
 
 📫 carmel.laurentia@gmail.com  
-🌐 [carmellaurentia.dev](https://carmellaurentia.dev) *(link your site here)*  
+🌐 [carmellaurentia.dev](https://claurentia.github.io/claurentia_vue/#/)
 💼 [linkedin.com/in/carmellaurentia](https://linkedin.com/in/carmellaurentia)
