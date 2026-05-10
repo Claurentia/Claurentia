@@ -22,6 +22,8 @@ Currently a full-time software developer at [MyStage Music](https://www.mysta.ge
 
 **MyStage Music** — Fan monetization portal with real-time tip processing and priority song requests; CI/CD pipelines via GitHub Actions; Firebase schema design for 300+ map assets across the Festival feature
 
+**[Bloom'n Brew](https://apps.apple.com/us/app/bloomn-brew/id6758324003)** *(App Store)* — Offline-first React Native app for logging and dialing in home coffee brews. Built for iOS and Android with local data persistence, brew history import/export, and data visualization. No accounts, no backend, just a focused tool that does one thing well.
+
 **Amazon Capstone** — Serverless feedback pipeline using AWS Lambda, PRAW, and AWS Comprehend to automate customer sentiment analysis and surface safety signals for internal teams
 
 **Panda-S** — E-commerce platform on Azure with JWT auth, role-based access, and NoSQL aggregation pipelines for high-volume inventory queries
