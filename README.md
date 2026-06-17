@@ -58,6 +58,6 @@ Currently a full-time software developer at [MyStage Music](https://www.mysta.ge
 
 Currently employed and actively exploring what's next. I'm looking for full-stack or mobile roles where I can stay close to the product and the people using it. If you're building something real and need someone who can move across the stack, I'd like to hear about it.
 
-📫 carmel.laurentia@gmail.com
-🌐 [claurentia.github.io](https://claurentia.github.io/claurentia_vue/#/)
-💼 [linkedin.com/in/carmel-laurentia-385292225](https://www.linkedin.com/in/carmel-laurentia-385292225)
+📫 carmel.laurentia@gmail.com  
+🌐 [claurentia.github.io](https://claurentia.github.io/claurentia_vue/#/)  
+💼 [linkedin.com/in/carmel-laurentia-385292225](https://www.linkedin.com/in/carmel-laurentia-385292225)  
